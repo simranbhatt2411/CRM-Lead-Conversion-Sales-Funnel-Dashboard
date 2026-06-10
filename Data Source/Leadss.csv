@@ -1,0 +1,501 @@
+﻿Lead_ID,Lead_Date,Lead_Source,Industry,City,Assigned_To,Lead_Status
+L0001,2025-06-18,Google Ads,Education,Mumbai,Neha,Converted
+L0002,2025-03-17,Website,Manufacturing,Delhi,Riya,Converted
+L0003,2025-01-18,Email Campaign,Education,Hyderabad,Vikas,Lost
+L0004,2025-04-22,Website,Retail,Hyderabad,Karan,New
+L0005,2025-03-16,Email Campaign,Healthcare,Hyderabad,Karan,Converted
+L0006,2025-03-11,LinkedIn,Manufacturing,Noida,Aman,Converted
+L0007,2025-02-26,Referral,Healthcare,Hyderabad,Riya,Lost
+L0008,2025-04-29,Facebook Ads,Healthcare,Noida,Riya,Qualified
+L0009,2025-01-26,LinkedIn,Healthcare,Noida,Aman,New
+L0010,2025-01-03,Referral,Retail,Bangalore,Vikas,Lost
+L0011,2025-03-01,LinkedIn,Healthcare,Pune,Karan,New
+L0012,2025-05-09,Website,Education,Hyderabad,Neha,Qualified
+L0013,2025-03-01,Referral,Healthcare,Pune,Riya,Qualified
+L0014,2025-05-12,Website,Finance,Bangalore,Aman,Lost
+L0015,2025-06-12,Website,Manufacturing,Noida,Riya,Lost
+L0016,2025-06-20,Email Campaign,Healthcare,Hyderabad,Vikas,Contacted
+L0017,2025-04-29,Google Ads,Manufacturing,Delhi,Karan,Converted
+L0018,2025-04-12,Website,Manufacturing,Noida,Aman,Lost
+L0019,2025-01-09,Email Campaign,IT,Pune,Vikas,Converted
+L0020,2025-04-17,Google Ads,Manufacturing,Delhi,Karan,New
+L0021,2025-06-24,Facebook Ads,Manufacturing,Bangalore,Vikas,Qualified
+L0022,2025-06-09,LinkedIn,Retail,Hyderabad,Riya,Contacted
+L0023,2025-06-27,Email Campaign,Manufacturing,Delhi,Vikas,New
+L0024,2025-06-07,LinkedIn,IT,Delhi,Karan,New
+L0025,2025-03-23,Referral,Education,Bangalore,Neha,New
+L0026,2025-06-09,Facebook Ads,Retail,Delhi,Riya,New
+L0027,2025-01-19,Email Campaign,IT,Delhi,Aman,Contacted
+L0028,2025-03-04,LinkedIn,Education,Noida,Aman,Converted
+L0029,2025-04-26,Facebook Ads,Finance,Bangalore,Neha,New
+L0030,2025-06-19,Google Ads,Education,Delhi,Aman,Qualified
+L0031,2025-01-06,Website,Retail,Noida,Aman,Qualified
+L0032,2025-03-05,Website,Retail,Noida,Aman,Qualified
+L0033,2025-02-19,Website,Retail,Delhi,Riya,Converted
+L0034,2025-01-06,Referral,IT,Bangalore,Karan,Contacted
+L0035,2025-03-22,LinkedIn,Finance,Noida,Riya,Lost
+L0036,2025-06-21,Website,Education,Pune,Karan,Qualified
+L0037,2025-06-21,Referral,Retail,Hyderabad,Neha,New
+L0038,2025-02-24,LinkedIn,Finance,Pune,Karan,Qualified
+L0039,2025-04-22,Email Campaign,Retail,Hyderabad,Aman,Lost
+L0040,2025-02-08,Google Ads,IT,Noida,Neha,Converted
+L0041,2025-06-13,Website,Healthcare,Hyderabad,Neha,Contacted
+L0042,2025-01-22,Google Ads,Healthcare,Noida,Riya,Contacted
+L0043,2025-04-16,Website,Healthcare,Hyderabad,Karan,Qualified
+L0044,2025-01-30,Email Campaign,IT,Hyderabad,Aman,Converted
+L0045,2025-05-02,Referral,Healthcare,Bangalore,Aman,Converted
+L0046,2025-04-22,LinkedIn,Manufacturing,Mumbai,Neha,Contacted
+L0047,2025-03-28,Facebook Ads,Healthcare,Bangalore,Riya,Lost
+L0048,2025-05-07,Email Campaign,Manufacturing,Mumbai,Riya,Lost
+L0049,2025-06-26,Website,Retail,Noida,Vikas,Lost
+L0050,2025-05-15,Google Ads,Retail,Pune,Riya,Lost
+L0051,2025-02-22,Facebook Ads,Healthcare,Bangalore,Aman,Lost
+L0052,2025-04-27,Google Ads,Retail,Noida,Karan,New
+L0053,2025-06-18,Google Ads,Retail,Bangalore,Neha,Lost
+L0054,2025-04-04,Referral,Finance,Pune,Riya,New
+L0055,2025-01-07,Website,Education,Mumbai,Vikas,Qualified
+L0056,2025-05-21,Website,Manufacturing,Mumbai,Aman,Lost
+L0057,2025-03-25,Facebook Ads,IT,Bangalore,Aman,Contacted
+L0058,2025-05-11,Website,Retail,Bangalore,Neha,Qualified
+L0059,2025-02-19,Referral,Education,Hyderabad,Vikas,New
+L0060,2025-01-01,Facebook Ads,Healthcare,Delhi,Vikas,New
+L0061,2025-06-15,Email Campaign,Retail,Pune,Neha,Lost
+L0062,2025-05-31,Google Ads,Retail,Noida,Aman,Qualified
+L0063,2025-02-28,Website,Retail,Noida,Karan,Lost
+L0064,2025-03-09,LinkedIn,Retail,Bangalore,Karan,Converted
+L0065,2025-04-10,Email Campaign,Finance,Noida,Neha,Contacted
+L0066,2025-05-20,Facebook Ads,IT,Bangalore,Vikas,Contacted
+L0067,2025-04-14,LinkedIn,Finance,Noida,Neha,Contacted
+L0068,2025-06-29,Referral,Finance,Mumbai,Karan,New
+L0069,2025-06-18,LinkedIn,Retail,Delhi,Karan,Lost
+L0070,2025-05-18,Email Campaign,Manufacturing,Hyderabad,Aman,Converted
+L0071,2025-04-24,LinkedIn,Healthcare,Mumbai,Karan,Lost
+L0072,2025-03-08,Email Campaign,Finance,Noida,Riya,New
+L0073,2025-04-21,Website,Finance,Delhi,Riya,Contacted
+L0074,2025-01-11,Facebook Ads,Finance,Noida,Aman,Lost
+L0075,2025-01-19,Google Ads,IT,Delhi,Karan,Qualified
+L0076,2025-01-02,Referral,Manufacturing,Mumbai,Aman,Lost
+L0077,2025-04-19,LinkedIn,Retail,Mumbai,Neha,Lost
+L0078,2025-03-22,Website,Finance,Hyderabad,Neha,Lost
+L0079,2025-02-27,Website,Manufacturing,Mumbai,Neha,Lost
+L0080,2025-03-23,Referral,Finance,Noida,Aman,Converted
+L0081,2025-03-23,Website,Retail,Noida,Karan,Contacted
+L0082,2025-02-04,Referral,Healthcare,Hyderabad,Vikas,New
+L0083,2025-03-30,Google Ads,Manufacturing,Mumbai,Karan,New
+L0084,2025-02-03,Referral,Manufacturing,Mumbai,Neha,New
+L0085,2025-01-21,Referral,Manufacturing,Hyderabad,Vikas,Contacted
+L0086,2025-01-25,Website,Education,Bangalore,Neha,New
+L0087,2025-06-27,Facebook Ads,Healthcare,Delhi,Neha,Converted
+L0088,2025-03-05,Email Campaign,Education,Mumbai,Aman,Qualified
+L0089,2025-01-01,Website,Manufacturing,Mumbai,Karan,Contacted
+L0090,2025-03-26,Website,IT,Pune,Riya,Converted
+L0091,2025-04-23,Email Campaign,Retail,Delhi,Karan,Contacted
+L0092,2025-02-19,Google Ads,Finance,Delhi,Vikas,Converted
+L0093,2025-01-14,Facebook Ads,Healthcare,Hyderabad,Riya,Lost
+L0094,2025-04-26,Referral,Retail,Pune,Karan,Contacted
+L0095,2025-05-09,Google Ads,Finance,Noida,Karan,New
+L0096,2025-02-05,Referral,Healthcare,Pune,Vikas,Qualified
+L0097,2025-04-27,Website,IT,Noida,Neha,Contacted
+L0098,2025-03-01,Website,Healthcare,Noida,Aman,Converted
+L0099,2025-03-19,Referral,Finance,Hyderabad,Vikas,Converted
+L0100,2025-04-20,Referral,Education,Noida,Aman,New
+L0101,2025-01-13,Website,IT,Noida,Riya,Converted
+L0102,2025-06-07,Facebook Ads,IT,Delhi,Karan,New
+L0103,2025-04-15,Referral,IT,Pune,Karan,Contacted
+L0104,2025-05-23,Email Campaign,Finance,Mumbai,Karan,Contacted
+L0105,2025-02-11,Email Campaign,Retail,Hyderabad,Neha,New
+L0106,2025-04-14,Google Ads,IT,Delhi,Vikas,Qualified
+L0107,2025-06-13,Facebook Ads,Healthcare,Mumbai,Riya,Lost
+L0108,2025-04-26,LinkedIn,Retail,Mumbai,Karan,Qualified
+L0109,2025-06-18,Email Campaign,Healthcare,Delhi,Vikas,Contacted
+L0110,2025-03-16,LinkedIn,Manufacturing,Noida,Aman,New
+L0111,2025-04-10,Website,Retail,Noida,Aman,New
+L0112,2025-06-25,Google Ads,IT,Hyderabad,Neha,Converted
+L0113,2025-01-23,LinkedIn,Finance,Pune,Aman,New
+L0114,2025-03-12,LinkedIn,IT,Noida,Karan,Qualified
+L0115,2025-03-21,Website,IT,Delhi,Neha,Qualified
+L0116,2025-02-21,Email Campaign,IT,Bangalore,Karan,Qualified
+L0117,2025-04-08,Website,IT,Mumbai,Neha,Contacted
+L0118,2025-05-10,Referral,Education,Pune,Riya,Lost
+L0119,2025-03-04,Facebook Ads,Education,Mumbai,Neha,Qualified
+L0120,2025-04-13,Google Ads,Retail,Hyderabad,Riya,Contacted
+L0121,2025-02-23,Email Campaign,Retail,Pune,Karan,New
+L0122,2025-05-19,Facebook Ads,IT,Noida,Karan,Contacted
+L0123,2025-05-24,Email Campaign,Education,Pune,Vikas,Qualified
+L0124,2025-03-28,LinkedIn,IT,Hyderabad,Karan,Lost
+L0125,2025-03-31,Referral,IT,Noida,Riya,Contacted
+L0126,2025-03-10,Email Campaign,Retail,Hyderabad,Riya,Converted
+L0127,2025-05-21,Email Campaign,Retail,Pune,Vikas,New
+L0128,2025-06-05,Email Campaign,Finance,Pune,Neha,Lost
+L0129,2025-04-20,Email Campaign,Retail,Pune,Riya,Qualified
+L0130,2025-04-24,Google Ads,Education,Noida,Vikas,Contacted
+L0131,2025-02-05,LinkedIn,Retail,Hyderabad,Neha,Converted
+L0132,2025-05-17,Website,Healthcare,Bangalore,Karan,Contacted
+L0133,2025-06-11,Website,Retail,Pune,Karan,Contacted
+L0134,2025-05-04,Website,Manufacturing,Pune,Riya,Contacted
+L0135,2025-04-07,Email Campaign,IT,Bangalore,Karan,Lost
+L0136,2025-02-24,Facebook Ads,Education,Pune,Karan,New
+L0137,2025-01-11,Referral,IT,Bangalore,Aman,Lost
+L0138,2025-04-24,Website,Healthcare,Pune,Neha,Contacted
+L0139,2025-06-23,Referral,Healthcare,Pune,Riya,New
+L0140,2025-03-17,Facebook Ads,Retail,Pune,Karan,Lost
+L0141,2025-06-03,Email Campaign,Retail,Delhi,Vikas,Converted
+L0142,2025-03-11,Website,Finance,Bangalore,Karan,Contacted
+L0143,2025-06-12,Facebook Ads,IT,Noida,Aman,Converted
+L0144,2025-04-14,LinkedIn,IT,Mumbai,Vikas,New
+L0145,2025-04-14,LinkedIn,Finance,Mumbai,Neha,Lost
+L0146,2025-06-03,LinkedIn,Education,Noida,Vikas,Qualified
+L0147,2025-01-29,Referral,Manufacturing,Hyderabad,Neha,Qualified
+L0148,2025-01-27,LinkedIn,Manufacturing,Bangalore,Karan,Lost
+L0149,2025-05-25,Referral,Finance,Noida,Vikas,Qualified
+L0150,2025-02-14,Facebook Ads,Finance,Pune,Vikas,Qualified
+L0151,2025-02-04,Facebook Ads,Healthcare,Mumbai,Karan,New
+L0152,2025-02-08,Website,Healthcare,Bangalore,Riya,Contacted
+L0153,2025-06-12,LinkedIn,Education,Hyderabad,Neha,Contacted
+L0154,2025-03-30,Facebook Ads,Retail,Mumbai,Aman,Qualified
+L0155,2025-01-04,Website,Manufacturing,Mumbai,Karan,Lost
+L0156,2025-04-02,Google Ads,Education,Bangalore,Vikas,Contacted
+L0157,2025-06-28,Google Ads,Finance,Hyderabad,Karan,Qualified
+L0158,2025-02-16,LinkedIn,Education,Pune,Karan,Lost
+L0159,2025-06-17,LinkedIn,Education,Pune,Riya,Contacted
+L0160,2025-03-21,Referral,Education,Bangalore,Neha,Qualified
+L0161,2025-02-12,Email Campaign,Education,Hyderabad,Neha,Contacted
+L0162,2025-05-04,Email Campaign,Finance,Mumbai,Neha,New
+L0163,2025-03-16,Google Ads,Retail,Bangalore,Vikas,Qualified
+L0164,2025-04-29,Google Ads,Retail,Bangalore,Neha,Contacted
+L0165,2025-05-21,Google Ads,Finance,Mumbai,Riya,Lost
+L0166,2025-03-03,LinkedIn,Finance,Delhi,Riya,Lost
+L0167,2025-04-27,Website,Finance,Noida,Karan,New
+L0168,2025-06-21,Google Ads,Finance,Bangalore,Karan,New
+L0169,2025-03-10,Referral,IT,Mumbai,Karan,Qualified
+L0170,2025-01-13,Facebook Ads,Finance,Mumbai,Karan,Lost
+L0171,2025-01-10,Email Campaign,Retail,Hyderabad,Karan,Converted
+L0172,2025-04-27,Google Ads,IT,Mumbai,Vikas,New
+L0173,2025-01-21,Website,Education,Hyderabad,Karan,New
+L0174,2025-01-06,Website,Manufacturing,Mumbai,Riya,New
+L0175,2025-01-06,LinkedIn,IT,Mumbai,Aman,Converted
+L0176,2025-01-11,LinkedIn,Healthcare,Mumbai,Vikas,Contacted
+L0177,2025-02-22,Website,Retail,Hyderabad,Karan,Lost
+L0178,2025-01-19,Referral,Retail,Mumbai,Vikas,Contacted
+L0179,2025-02-04,LinkedIn,Manufacturing,Noida,Riya,Converted
+L0180,2025-01-23,Google Ads,Retail,Hyderabad,Neha,Converted
+L0181,2025-06-10,Referral,Education,Pune,Karan,Converted
+L0182,2025-04-08,LinkedIn,Finance,Pune,Vikas,Contacted
+L0183,2025-04-07,Facebook Ads,Retail,Bangalore,Vikas,New
+L0184,2025-05-11,Facebook Ads,Manufacturing,Hyderabad,Aman,Qualified
+L0185,2025-01-06,Website,Education,Delhi,Neha,Converted
+L0186,2025-02-14,Google Ads,Retail,Mumbai,Neha,Qualified
+L0187,2025-01-15,Referral,IT,Noida,Karan,Qualified
+L0188,2025-03-05,Website,Finance,Noida,Aman,Converted
+L0189,2025-06-22,Email Campaign,Education,Pune,Karan,Converted
+L0190,2025-04-23,Website,Education,Delhi,Vikas,Converted
+L0191,2025-01-29,Email Campaign,Healthcare,Hyderabad,Riya,Lost
+L0192,2025-02-24,Facebook Ads,Finance,Bangalore,Karan,Qualified
+L0193,2025-02-04,Referral,Manufacturing,Hyderabad,Riya,New
+L0194,2025-02-18,LinkedIn,Healthcare,Hyderabad,Karan,New
+L0195,2025-01-30,Facebook Ads,Education,Noida,Neha,Qualified
+L0196,2025-05-01,Referral,IT,Hyderabad,Neha,Lost
+L0197,2025-04-12,Website,Education,Delhi,Karan,New
+L0198,2025-06-12,Facebook Ads,Healthcare,Delhi,Vikas,Converted
+L0199,2025-03-05,Facebook Ads,Education,Noida,Vikas,New
+L0200,2025-06-17,Facebook Ads,IT,Noida,Vikas,Qualified
+L0201,2025-01-16,Email Campaign,Education,Bangalore,Neha,Contacted
+L0202,2025-02-14,Facebook Ads,Retail,Mumbai,Neha,Qualified
+L0203,2025-01-06,Website,Healthcare,Mumbai,Riya,Contacted
+L0204,2025-04-22,Email Campaign,Retail,Hyderabad,Vikas,New
+L0205,2025-06-22,Email Campaign,Retail,Mumbai,Aman,Converted
+L0206,2025-02-26,Facebook Ads,Healthcare,Delhi,Aman,Converted
+L0207,2025-03-18,Email Campaign,Education,Bangalore,Aman,Lost
+L0208,2025-05-12,Referral,Finance,Delhi,Riya,Converted
+L0209,2025-01-13,Facebook Ads,Retail,Bangalore,Aman,Converted
+L0210,2025-01-31,Google Ads,Healthcare,Pune,Riya,Qualified
+L0211,2025-04-15,Email Campaign,Healthcare,Delhi,Neha,Lost
+L0212,2025-05-16,Website,Finance,Hyderabad,Karan,New
+L0213,2025-05-22,Referral,Manufacturing,Hyderabad,Karan,Qualified
+L0214,2025-03-27,Website,Education,Mumbai,Aman,Lost
+L0215,2025-06-04,Referral,Retail,Delhi,Neha,Contacted
+L0216,2025-01-17,Email Campaign,Manufacturing,Hyderabad,Karan,Lost
+L0217,2025-01-26,Website,Manufacturing,Mumbai,Riya,Converted
+L0218,2025-05-29,Facebook Ads,IT,Mumbai,Riya,Converted
+L0219,2025-05-25,Facebook Ads,Healthcare,Bangalore,Aman,Contacted
+L0220,2025-06-28,Referral,Retail,Mumbai,Neha,Qualified
+L0221,2025-01-04,Referral,Finance,Noida,Riya,Contacted
+L0222,2025-03-10,LinkedIn,Healthcare,Noida,Aman,Qualified
+L0223,2025-01-08,LinkedIn,Education,Bangalore,Neha,Contacted
+L0224,2025-02-17,Website,Retail,Hyderabad,Karan,Contacted
+L0225,2025-06-04,Facebook Ads,Healthcare,Pune,Vikas,Qualified
+L0226,2025-04-19,Google Ads,IT,Noida,Vikas,New
+L0227,2025-03-19,Website,Education,Mumbai,Riya,Lost
+L0228,2025-05-10,Google Ads,IT,Pune,Riya,Contacted
+L0229,2025-05-04,Referral,IT,Mumbai,Riya,Contacted
+L0230,2025-01-11,Google Ads,IT,Hyderabad,Neha,Qualified
+L0231,2025-01-29,LinkedIn,IT,Mumbai,Karan,New
+L0232,2025-04-15,Google Ads,Education,Noida,Karan,Qualified
+L0233,2025-06-19,Website,IT,Mumbai,Neha,Qualified
+L0234,2025-02-27,Google Ads,Education,Bangalore,Karan,Converted
+L0235,2025-01-08,Google Ads,Finance,Pune,Aman,New
+L0236,2025-06-17,Facebook Ads,IT,Bangalore,Riya,Qualified
+L0237,2025-03-23,Facebook Ads,Manufacturing,Delhi,Aman,Converted
+L0238,2025-03-20,LinkedIn,IT,Hyderabad,Riya,Qualified
+L0239,2025-04-26,Email Campaign,Education,Pune,Neha,Contacted
+L0240,2025-03-07,Google Ads,Retail,Noida,Vikas,Lost
+L0241,2025-04-21,Email Campaign,Healthcare,Hyderabad,Riya,Contacted
+L0242,2025-04-21,LinkedIn,Retail,Mumbai,Karan,Qualified
+L0243,2025-06-10,Email Campaign,Manufacturing,Pune,Neha,Qualified
+L0244,2025-03-06,Google Ads,Finance,Pune,Vikas,Contacted
+L0245,2025-06-18,LinkedIn,Manufacturing,Noida,Karan,Qualified
+L0246,2025-01-23,Facebook Ads,Manufacturing,Bangalore,Neha,Lost
+L0247,2025-05-28,Website,Retail,Mumbai,Vikas,Lost
+L0248,2025-04-04,Email Campaign,IT,Hyderabad,Neha,New
+L0249,2025-03-12,Email Campaign,Finance,Pune,Neha,New
+L0250,2025-06-27,Referral,IT,Noida,Karan,New
+L0251,2025-05-28,Email Campaign,Retail,Pune,Riya,Contacted
+L0252,2025-03-20,Email Campaign,Education,Bangalore,Karan,Lost
+L0253,2025-04-23,Email Campaign,Retail,Hyderabad,Karan,Lost
+L0254,2025-01-02,Google Ads,Healthcare,Pune,Aman,New
+L0255,2025-05-19,LinkedIn,Healthcare,Pune,Karan,Contacted
+L0256,2025-01-02,Website,IT,Bangalore,Aman,New
+L0257,2025-01-15,Email Campaign,Retail,Mumbai,Vikas,Lost
+L0258,2025-05-19,Website,Healthcare,Hyderabad,Neha,Contacted
+L0259,2025-01-06,Referral,Finance,Delhi,Aman,Lost
+L0260,2025-06-25,Referral,Manufacturing,Mumbai,Karan,Contacted
+L0261,2025-06-05,Facebook Ads,IT,Pune,Aman,Lost
+L0262,2025-04-15,Referral,IT,Mumbai,Vikas,New
+L0263,2025-01-02,Email Campaign,Education,Hyderabad,Aman,Qualified
+L0264,2025-05-20,Referral,Education,Pune,Karan,Qualified
+L0265,2025-03-04,Email Campaign,Finance,Pune,Riya,Qualified
+L0266,2025-03-21,Referral,IT,Bangalore,Neha,Contacted
+L0267,2025-05-31,Website,Manufacturing,Noida,Vikas,Contacted
+L0268,2025-04-20,Email Campaign,Retail,Delhi,Neha,Qualified
+L0269,2025-01-10,Referral,Healthcare,Noida,Vikas,New
+L0270,2025-06-29,Facebook Ads,Finance,Mumbai,Riya,Contacted
+L0271,2025-06-23,Email Campaign,Healthcare,Delhi,Aman,New
+L0272,2025-01-01,Website,Manufacturing,Noida,Vikas,New
+L0273,2025-03-30,LinkedIn,Education,Pune,Vikas,New
+L0274,2025-05-27,Google Ads,Finance,Pune,Aman,New
+L0275,2025-02-12,Facebook Ads,IT,Delhi,Karan,Lost
+L0276,2025-04-11,Google Ads,Education,Bangalore,Riya,Contacted
+L0277,2025-01-03,Email Campaign,Healthcare,Pune,Aman,Qualified
+L0278,2025-02-22,Referral,Education,Mumbai,Vikas,New
+L0279,2025-01-11,Email Campaign,Manufacturing,Pune,Riya,Converted
+L0280,2025-02-18,Website,Manufacturing,Hyderabad,Riya,Qualified
+L0281,2025-06-15,LinkedIn,Finance,Bangalore,Riya,Lost
+L0282,2025-02-26,Email Campaign,Healthcare,Pune,Karan,New
+L0283,2025-01-31,Referral,Finance,Hyderabad,Neha,Lost
+L0284,2025-04-01,Referral,Finance,Bangalore,Vikas,Converted
+L0285,2025-01-22,Facebook Ads,Manufacturing,Delhi,Vikas,Qualified
+L0286,2025-05-01,Email Campaign,Finance,Delhi,Riya,Qualified
+L0287,2025-05-11,Referral,Manufacturing,Hyderabad,Neha,Lost
+L0288,2025-04-24,Referral,Manufacturing,Pune,Aman,Contacted
+L0289,2025-01-20,Google Ads,Finance,Delhi,Vikas,Qualified
+L0290,2025-04-30,Website,Education,Mumbai,Karan,New
+L0291,2025-05-22,Email Campaign,IT,Delhi,Aman,Converted
+L0292,2025-02-22,Website,IT,Bangalore,Vikas,Qualified
+L0293,2025-01-30,Facebook Ads,Healthcare,Pune,Vikas,Qualified
+L0294,2025-04-06,Email Campaign,Healthcare,Noida,Neha,Qualified
+L0295,2025-03-22,Referral,Finance,Mumbai,Vikas,Lost
+L0296,2025-05-10,Google Ads,Manufacturing,Pune,Vikas,Converted
+L0297,2025-02-14,Google Ads,Education,Hyderabad,Aman,New
+L0298,2025-02-11,Website,Education,Pune,Aman,Qualified
+L0299,2025-03-20,Email Campaign,Healthcare,Delhi,Aman,Lost
+L0300,2025-03-26,Referral,Finance,Noida,Karan,New
+L0301,2025-02-11,Email Campaign,IT,Delhi,Neha,New
+L0302,2025-01-25,Google Ads,Education,Delhi,Vikas,New
+L0303,2025-05-22,Website,Education,Pune,Karan,Converted
+L0304,2025-02-11,LinkedIn,Finance,Pune,Riya,Contacted
+L0305,2025-03-05,Google Ads,Retail,Noida,Riya,New
+L0306,2025-03-21,Website,Finance,Bangalore,Aman,New
+L0307,2025-05-19,Email Campaign,IT,Bangalore,Karan,Lost
+L0308,2025-03-24,Google Ads,IT,Hyderabad,Aman,Qualified
+L0309,2025-05-12,LinkedIn,Education,Pune,Riya,Qualified
+L0310,2025-01-15,Google Ads,Finance,Noida,Karan,Contacted
+L0311,2025-06-15,Referral,Manufacturing,Delhi,Karan,Lost
+L0312,2025-04-20,Website,Education,Noida,Karan,Qualified
+L0313,2025-06-07,Website,Manufacturing,Mumbai,Aman,Lost
+L0314,2025-06-15,Email Campaign,Education,Hyderabad,Karan,Contacted
+L0315,2025-04-14,Google Ads,Finance,Pune,Neha,Qualified
+L0316,2025-04-10,LinkedIn,Finance,Pune,Karan,Converted
+L0317,2025-04-25,Website,Finance,Hyderabad,Riya,New
+L0318,2025-04-22,LinkedIn,Manufacturing,Bangalore,Riya,New
+L0319,2025-05-20,Facebook Ads,Healthcare,Hyderabad,Aman,Contacted
+L0320,2025-02-02,Referral,Retail,Pune,Vikas,Converted
+L0321,2025-03-25,Email Campaign,Finance,Noida,Vikas,Contacted
+L0322,2025-03-30,LinkedIn,Education,Pune,Aman,Lost
+L0323,2025-03-22,Referral,Retail,Hyderabad,Karan,Contacted
+L0324,2025-01-16,Email Campaign,IT,Mumbai,Karan,Lost
+L0325,2025-05-05,Referral,Finance,Delhi,Vikas,New
+L0326,2025-02-12,Facebook Ads,Manufacturing,Noida,Neha,New
+L0327,2025-05-19,Email Campaign,IT,Noida,Aman,Qualified
+L0328,2025-05-16,LinkedIn,Education,Noida,Neha,Qualified
+L0329,2025-02-24,Google Ads,Finance,Noida,Vikas,Converted
+L0330,2025-02-28,Website,Finance,Pune,Aman,Contacted
+L0331,2025-04-10,Website,Manufacturing,Delhi,Karan,Qualified
+L0332,2025-06-14,LinkedIn,Healthcare,Noida,Aman,Contacted
+L0333,2025-05-12,LinkedIn,Manufacturing,Noida,Riya,New
+L0334,2025-04-21,Referral,Finance,Delhi,Vikas,Lost
+L0335,2025-04-10,Email Campaign,Manufacturing,Delhi,Neha,Qualified
+L0336,2025-02-18,Email Campaign,Finance,Mumbai,Karan,New
+L0337,2025-02-28,LinkedIn,Retail,Pune,Neha,New
+L0338,2025-03-23,Email Campaign,Healthcare,Hyderabad,Vikas,New
+L0339,2025-06-12,LinkedIn,Education,Pune,Aman,Converted
+L0340,2025-06-15,Website,Manufacturing,Delhi,Karan,Qualified
+L0341,2025-04-06,Google Ads,Education,Hyderabad,Karan,New
+L0342,2025-04-27,Email Campaign,Finance,Pune,Aman,Lost
+L0343,2025-01-13,LinkedIn,Education,Mumbai,Vikas,New
+L0344,2025-02-16,Google Ads,Finance,Mumbai,Karan,New
+L0345,2025-03-26,Google Ads,Finance,Mumbai,Aman,Converted
+L0346,2025-06-20,Facebook Ads,IT,Bangalore,Karan,Converted
+L0347,2025-03-30,Referral,IT,Hyderabad,Vikas,New
+L0348,2025-06-04,Google Ads,Retail,Hyderabad,Karan,New
+L0349,2025-03-20,Google Ads,Healthcare,Delhi,Karan,Contacted
+L0350,2025-03-09,LinkedIn,Finance,Bangalore,Neha,Contacted
+L0351,2025-01-06,Google Ads,Finance,Pune,Karan,New
+L0352,2025-05-31,Website,Retail,Mumbai,Riya,Lost
+L0353,2025-03-20,LinkedIn,Education,Mumbai,Riya,Contacted
+L0354,2025-05-17,Google Ads,Finance,Noida,Aman,Contacted
+L0355,2025-05-13,Google Ads,Finance,Hyderabad,Vikas,Contacted
+L0356,2025-03-26,Facebook Ads,IT,Bangalore,Aman,Contacted
+L0357,2025-03-31,Referral,Education,Delhi,Aman,Contacted
+L0358,2025-05-20,Referral,Healthcare,Mumbai,Riya,New
+L0359,2025-05-11,Facebook Ads,Healthcare,Bangalore,Neha,Converted
+L0360,2025-04-04,Facebook Ads,IT,Bangalore,Aman,New
+L0361,2025-02-11,Google Ads,Manufacturing,Mumbai,Aman,Lost
+L0362,2025-04-09,Google Ads,IT,Noida,Vikas,New
+L0363,2025-04-11,Referral,Manufacturing,Noida,Vikas,Contacted
+L0364,2025-05-11,Google Ads,Manufacturing,Delhi,Karan,New
+L0365,2025-06-30,Website,IT,Hyderabad,Vikas,Converted
+L0366,2025-04-25,Website,Healthcare,Hyderabad,Aman,Contacted
+L0367,2025-03-30,Referral,IT,Bangalore,Neha,Converted
+L0368,2025-01-11,Website,Manufacturing,Noida,Neha,Lost
+L0369,2025-05-08,Facebook Ads,Finance,Pune,Karan,Converted
+L0370,2025-01-31,Facebook Ads,Education,Hyderabad,Neha,Converted
+L0371,2025-03-09,Website,IT,Bangalore,Aman,Lost
+L0372,2025-02-24,Facebook Ads,IT,Noida,Riya,Converted
+L0373,2025-05-24,Facebook Ads,Healthcare,Hyderabad,Riya,Lost
+L0374,2025-02-04,Email Campaign,Education,Hyderabad,Vikas,Contacted
+L0375,2025-04-18,Google Ads,Education,Noida,Aman,Qualified
+L0376,2025-06-07,Email Campaign,Healthcare,Noida,Neha,New
+L0377,2025-06-10,LinkedIn,Healthcare,Hyderabad,Aman,Converted
+L0378,2025-01-08,LinkedIn,Manufacturing,Noida,Aman,Contacted
+L0379,2025-04-15,Email Campaign,Retail,Noida,Aman,Contacted
+L0380,2025-04-24,LinkedIn,Retail,Hyderabad,Karan,Contacted
+L0381,2025-04-21,Google Ads,Manufacturing,Noida,Aman,Contacted
+L0382,2025-02-24,Email Campaign,Healthcare,Noida,Karan,Converted
+L0383,2025-04-09,Website,Education,Pune,Riya,Lost
+L0384,2025-02-23,Referral,Retail,Noida,Vikas,Lost
+L0385,2025-04-15,Facebook Ads,Finance,Delhi,Vikas,Qualified
+L0386,2025-01-07,LinkedIn,Education,Delhi,Karan,Qualified
+L0387,2025-06-29,LinkedIn,Education,Pune,Vikas,Contacted
+L0388,2025-02-18,LinkedIn,Retail,Noida,Aman,Contacted
+L0389,2025-02-03,LinkedIn,Manufacturing,Noida,Vikas,Contacted
+L0390,2025-06-13,Email Campaign,IT,Noida,Karan,New
+L0391,2025-05-11,Referral,Healthcare,Hyderabad,Aman,Converted
+L0392,2025-04-05,Email Campaign,Education,Noida,Neha,Converted
+L0393,2025-04-08,Facebook Ads,IT,Hyderabad,Aman,Lost
+L0394,2025-03-30,Facebook Ads,Manufacturing,Hyderabad,Karan,Lost
+L0395,2025-03-20,Website,Finance,Pune,Neha,Qualified
+L0396,2025-02-24,Website,IT,Noida,Karan,Contacted
+L0397,2025-04-12,Email Campaign,Retail,Hyderabad,Riya,Converted
+L0398,2025-04-27,Google Ads,Healthcare,Delhi,Neha,New
+L0399,2025-01-23,Email Campaign,Education,Hyderabad,Vikas,New
+L0400,2025-05-12,LinkedIn,IT,Noida,Vikas,Qualified
+L0401,2025-06-24,Email Campaign,Education,Bangalore,Vikas,Contacted
+L0402,2025-05-11,Website,Finance,Pune,Karan,New
+L0403,2025-04-01,Facebook Ads,Healthcare,Pune,Neha,Qualified
+L0404,2025-05-28,Facebook Ads,Education,Mumbai,Karan,Converted
+L0405,2025-06-13,Google Ads,IT,Pune,Riya,Qualified
+L0406,2025-03-30,LinkedIn,Healthcare,Noida,Vikas,New
+L0407,2025-02-06,Email Campaign,Manufacturing,Noida,Neha,New
+L0408,2025-05-05,Google Ads,IT,Hyderabad,Vikas,Contacted
+L0409,2025-05-07,Referral,Manufacturing,Bangalore,Karan,Qualified
+L0410,2025-06-18,Facebook Ads,Retail,Bangalore,Aman,Qualified
+L0411,2025-04-29,Referral,Education,Pune,Vikas,Qualified
+L0412,2025-05-26,LinkedIn,IT,Mumbai,Vikas,Contacted
+L0413,2025-02-19,Website,Retail,Mumbai,Karan,Lost
+L0414,2025-01-03,Email Campaign,Manufacturing,Bangalore,Vikas,Qualified
+L0415,2025-01-12,Website,Finance,Hyderabad,Karan,Converted
+L0416,2025-04-17,Website,Education,Delhi,Aman,Converted
+L0417,2025-06-28,LinkedIn,Education,Pune,Riya,Contacted
+L0418,2025-06-25,Email Campaign,Finance,Mumbai,Neha,Contacted
+L0419,2025-01-31,Facebook Ads,Finance,Hyderabad,Vikas,Converted
+L0420,2025-04-05,LinkedIn,Manufacturing,Noida,Vikas,Lost
+L0421,2025-05-02,Google Ads,IT,Delhi,Vikas,Lost
+L0422,2025-03-14,Website,Retail,Mumbai,Vikas,Contacted
+L0423,2025-03-12,Email Campaign,Finance,Mumbai,Riya,Converted
+L0424,2025-02-04,Google Ads,Healthcare,Bangalore,Karan,Lost
+L0425,2025-06-13,LinkedIn,Healthcare,Pune,Neha,Qualified
+L0426,2025-01-29,Referral,Finance,Delhi,Neha,Contacted
+L0427,2025-04-08,Facebook Ads,IT,Pune,Neha,Qualified
+L0428,2025-06-08,Website,Finance,Mumbai,Karan,Lost
+L0429,2025-03-03,Referral,Retail,Mumbai,Karan,Qualified
+L0430,2025-03-26,Website,Finance,Noida,Neha,Contacted
+L0431,2025-02-12,LinkedIn,Finance,Delhi,Riya,Qualified
+L0432,2025-02-22,LinkedIn,Healthcare,Hyderabad,Karan,Contacted
+L0433,2025-01-15,Referral,Healthcare,Noida,Riya,Lost
+L0434,2025-05-05,LinkedIn,Healthcare,Noida,Vikas,Lost
+L0435,2025-02-08,Facebook Ads,Healthcare,Bangalore,Riya,New
+L0436,2025-03-27,LinkedIn,Finance,Bangalore,Vikas,Contacted
+L0437,2025-05-05,Email Campaign,Manufacturing,Bangalore,Aman,New
+L0438,2025-04-26,Referral,Retail,Hyderabad,Riya,Qualified
+L0439,2025-01-13,LinkedIn,Retail,Hyderabad,Riya,Contacted
+L0440,2025-06-17,Email Campaign,Education,Bangalore,Aman,Lost
+L0441,2025-06-29,Website,IT,Hyderabad,Riya,Qualified
+L0442,2025-04-24,Facebook Ads,Retail,Pune,Aman,Contacted
+L0443,2025-05-16,Email Campaign,Manufacturing,Noida,Karan,New
+L0444,2025-06-23,Website,Healthcare,Delhi,Riya,New
+L0445,2025-03-04,Website,Education,Pune,Vikas,Lost
+L0446,2025-05-27,Google Ads,Finance,Bangalore,Vikas,Contacted
+L0447,2025-01-27,Email Campaign,Retail,Pune,Vikas,Contacted
+L0448,2025-01-29,Referral,Retail,Delhi,Karan,Qualified
+L0449,2025-06-01,Referral,IT,Delhi,Aman,Lost
+L0450,2025-03-27,Google Ads,IT,Hyderabad,Aman,Converted
+L0451,2025-02-28,Google Ads,Retail,Pune,Aman,Qualified
+L0452,2025-01-29,Website,Retail,Delhi,Aman,Qualified
+L0453,2025-06-30,Facebook Ads,Healthcare,Pune,Aman,Qualified
+L0454,2025-04-10,Google Ads,Healthcare,Delhi,Karan,Qualified
+L0455,2025-03-31,Email Campaign,Finance,Pune,Aman,New
+L0456,2025-05-31,Website,Healthcare,Pune,Vikas,Lost
+L0457,2025-03-16,LinkedIn,Finance,Bangalore,Aman,Contacted
+L0458,2025-04-22,LinkedIn,Healthcare,Delhi,Neha,Qualified
+L0459,2025-06-17,Email Campaign,Healthcare,Pune,Aman,Qualified
+L0460,2025-06-14,Email Campaign,Healthcare,Mumbai,Vikas,New
+L0461,2025-03-21,Google Ads,Finance,Delhi,Riya,Contacted
+L0462,2025-01-19,Website,Education,Mumbai,Vikas,Contacted
+L0463,2025-05-15,Facebook Ads,Retail,Pune,Neha,New
+L0464,2025-03-06,Referral,Manufacturing,Noida,Riya,New
+L0465,2025-05-23,Website,Manufacturing,Hyderabad,Karan,Converted
+L0466,2025-05-27,LinkedIn,Manufacturing,Mumbai,Aman,Lost
+L0467,2025-02-07,LinkedIn,Healthcare,Pune,Neha,Qualified
+L0468,2025-01-05,Referral,Finance,Delhi,Aman,Contacted
+L0469,2025-05-05,Website,Education,Delhi,Aman,New
+L0470,2025-06-16,Google Ads,Healthcare,Noida,Riya,Lost
+L0471,2025-06-12,Google Ads,Retail,Bangalore,Aman,New
+L0472,2025-01-01,Google Ads,Manufacturing,Bangalore,Vikas,New
+L0473,2025-03-18,Google Ads,Education,Mumbai,Karan,Lost
+L0474,2025-05-12,Facebook Ads,IT,Delhi,Karan,Contacted
+L0475,2025-04-24,Referral,Finance,Pune,Vikas,Lost
+L0476,2025-06-07,LinkedIn,Manufacturing,Delhi,Vikas,Qualified
+L0477,2025-03-16,Facebook Ads,IT,Noida,Riya,New
+L0478,2025-03-08,Facebook Ads,Finance,Noida,Aman,Contacted
+L0479,2025-04-10,LinkedIn,Finance,Pune,Karan,Qualified
+L0480,2025-05-09,Facebook Ads,Manufacturing,Pune,Riya,New
+L0481,2025-01-18,Email Campaign,Retail,Pune,Riya,Qualified
+L0482,2025-04-27,Email Campaign,Finance,Mumbai,Neha,Contacted
+L0483,2025-01-11,LinkedIn,Education,Hyderabad,Neha,Qualified
+L0484,2025-02-05,Email Campaign,Education,Noida,Neha,New
+L0485,2025-03-03,Website,Manufacturing,Noida,Vikas,Contacted
+L0486,2025-06-23,Facebook Ads,Finance,Pune,Neha,Contacted
+L0487,2025-06-05,Facebook Ads,Education,Mumbai,Neha,Lost
+L0488,2025-05-27,Referral,IT,Pune,Aman,New
+L0489,2025-02-16,Google Ads,Healthcare,Noida,Vikas,Lost
+L0490,2025-05-24,LinkedIn,Finance,Noida,Neha,Contacted
+L0491,2025-02-14,LinkedIn,IT,Noida,Karan,Qualified
+L0492,2025-05-24,Website,Finance,Bangalore,Aman,Lost
+L0493,2025-01-07,Email Campaign,Healthcare,Delhi,Karan,Qualified
+L0494,2025-03-29,Email Campaign,IT,Mumbai,Vikas,New
+L0495,2025-02-20,Website,IT,Delhi,Karan,Lost
+L0496,2025-03-19,LinkedIn,Retail,Noida,Karan,Lost
+L0497,2025-04-06,Website,IT,Bangalore,Aman,Qualified
+L0498,2025-03-08,Facebook Ads,IT,Mumbai,Aman,Contacted
+L0499,2025-05-28,LinkedIn,Education,Pune,Riya,Contacted
+L0500,2025-01-05,Facebook Ads,Healthcare,Pune,Vikas,Contacted
